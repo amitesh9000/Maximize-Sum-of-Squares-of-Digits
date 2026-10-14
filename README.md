@@ -1,0 +1,1 @@
+# Maximize-Sum-of-Squares-of-Digits
